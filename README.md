@@ -17,4 +17,10 @@ g++ banker.cpp -pthread -o banker
 
 ./banker 
 
+Expacted output : 
+
+![Screenshot 2025-04-23 174721](https://github.com/user-attachments/assets/4c33c925-7d49-4e22-aecd-cbb9c3b04140)
+
+
+
 
