@@ -11,4 +11,9 @@ Explanation :
 
 This code exports the specified resource allocation table to a text file named matrix.txt, preserving the original tabular structure. The primary implementation of the Banker's Algorithm is contained within safety.cpp, while banker.cpp is responsible for invoking and managing its execution. 
 
+Compilation process using the following commands: 
+
+g++ banker.cpp -pthread -o banker
+./banker 
+
 
