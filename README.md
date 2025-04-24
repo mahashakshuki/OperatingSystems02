@@ -14,6 +14,7 @@ This code exports the specified resource allocation table to a text file named m
 Compilation process using the following commands: 
 
 g++ banker.cpp -pthread -o banker
+
 ./banker 
 
 
