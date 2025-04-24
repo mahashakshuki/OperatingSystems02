@@ -8,6 +8,7 @@ Considering a system with five processes P0 through P4 and three resources of ty
 Implement the Banker’s algorithm to answer the following question： Is the system in a safe state? If Yes, then what is the safe sequence?
 
 Explanation : 
+
 This code exports the specified resource allocation table to a text file named matrix.txt, preserving the original tabular structure. The primary implementation of the Banker's Algorithm is contained within safety.cpp, while banker.cpp is responsible for invoking and managing its execution. 
 
 
